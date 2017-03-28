@@ -1,6 +1,6 @@
 # Uso básico de git
 
-## Objetivos
+## Objetivos de Adrián
 
 En este apartado veremos cómo se usa git de forma básica para trabajar en modo monousuario y con un repositorio centralizado.
 
